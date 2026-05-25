@@ -4,11 +4,11 @@
         <title>DockLockr</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Mon, 25 May 2026 17:26:26 +0300</pubDate>
+            <pubDate>Mon, 25 May 2026 18:27:13 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/biozalp/docklockr-releases/releases/download/v1.0.1/DockLockr.dmg" length="3597048" type="application/octet-stream" sparkle:edSignature="V2kOgEYm9zfAaPTABPKnsyrHkaWGDOUc/s4h62sJc722SLDWqpd9AcXFWAoAepfdVBdRiQK5K6EYAYB9l0n1Aw=="/>
+            <enclosure url="https://github.com/biozalp/docklockr-releases/releases/download/v1.0.1/DockLockr.dmg" length="3597173" type="application/octet-stream" sparkle:edSignature="bHbmqZYlj8niULQJlhto+IoZ+pML5S+5OW8nkJy5cyw+gmeQndnov3sOCorKPAa0UrtT/VnUIgs5dA+PhsKPDw=="/>
         </item>
     </channel>
 </rss>
